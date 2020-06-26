@@ -1,4 +1,11 @@
 
+.product{
+  border: 5px solid red;
+  margin: 5px;
+  padding: 5px;
+  background-color: pink;
+}
+
 
 /*
 Copyright Google LLC. All Rights Reserved.
